@@ -18,7 +18,7 @@
   <img src="">
 </p>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=spotify-music&type=git&repository=BABY-MUSIC%2FSPOTIFY_MUSIC&branch=main&builder=dockerfile)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=spotify-music&type=git&repository=Shuaib6869%2FSPOTIFY_MUSIC&branch=main&builder=dockerfile)
 
 
 <h3 align="center">
